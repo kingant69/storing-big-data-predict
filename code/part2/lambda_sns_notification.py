@@ -18,7 +18,7 @@ import json
 # Insert your SNS topic ARN below
 sns_arn = "arn:aws:sns:your:topic:here" 
 # Insert your full name and surname for marking purposes
-student_name = "Dora Explorer" 
+student_name = "Silindelo Zulu" 
 # ===================================================================================
 
 def lambda_handler(event, context):
